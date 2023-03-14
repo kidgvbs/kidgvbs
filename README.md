@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Gabriele, I'm from Italy.
 - 🌱 I’m currently learning **Kubernetes** and **Python**
+- 💻 I would to become a **DevOps Engineer**
 - 😁 I would like to make a contribute in open source community
 - 📫 How to reach me **kidgvbs@proton.me**
 
