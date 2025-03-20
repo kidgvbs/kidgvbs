@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriele, I'm from Italy.
-- 🌱 I’m currently learning **Kubernetes** and **Python**
-- 💻 I would to become a **DevOps Engineer**
+- 🌱 I’m currently learning **Ansible** and **Python**
+- 💻 I'm a **Site Reliability Engineer** to immobiliare.it
 - 😁 I would like to make a contribute in open source community
 - 📫 How to reach me **kidgvbs@proton.me**
 
